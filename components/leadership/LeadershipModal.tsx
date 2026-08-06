@@ -88,7 +88,7 @@ export default function LeadershipModal({
           {/* Full, uncropped image — carousel if multiple photos */}
           <div className="w-full bg-[var(--paper)]">
             {gallery.length > 1 ? (
-              <div className="group relative h-[42  vh] w-full">
+              <div className="group relative h-[42vh] w-full">
                 <Swiper
                   modules={[Navigation, Pagination, Autoplay, EffectFade]}
                   autoplay={{ delay: 3200, disableOnInteraction: false }}
