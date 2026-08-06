@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "work": "作品",
+    "about": "关于",
+    "leadership": "领导力",
+    "credentials": "资质",
+    "contact": "联系",
+    "resume": "简历",
+    "themeToggle": "切换主题",
+    "languageSelector": "选择语言"
+  },
+  "intro": {
+    "welcome": "欢迎",
+    "quote": "打造能观察、倾听并作出回应的事物。"
+  },
+  "hero": {
+    "titleRole1": "软件工程师",
+    "titleRole2": "全栈开发者",
+    "titleRole3": "应用机器学习工程师",
+    "subtitle": "VIT维洛尔理工学院信息技术专业本科生，设计能观察、倾听并作出回应的系统——从计算机视觉安全工具到部署在云端的全栈应用。"
+  },
+  "about": {
+    "sectionTitle": "关于",
+    "intro": "我是一名信息技术专业学生，就读于",
+    "bodyHabit": "习惯围绕实时信号——摄像头、GPS数据流、考勤记录流——来选择项目，并将其转化为系统可以据以行动的东西。",
+    "statFestivals": "以学生负责人或志愿者身份组织的节庆活动数量"
+  },
+  "work": {
+    "sectionTitle": "作品",
+    "eyebrow": "精选项目。"
+  },
+  "leadership": {
+    "sectionTitle": "领导力与",
+    "sectionTitleLine2": "节庆活动",
+    "eyebrow": "台前与幕后。",
+    "topBadge": "组织者 · 最高学生职务",
+    "organiserRole": "学生组织者",
+    "managerRole": "学生经理",
+    "coordinatorRole": "学生协调员",
+    "volunteerRole": "志愿者"
+  },
+  "credentials": {
+    "sectionTitle": "资质"
+  },
+  "contact": {
+    "sectionTitle": "联系",
+    "eyebrow": "聊聊吧。",
+    "nameLabel": "姓名",
+    "emailLabel": "邮箱",
+    "messageLabel": "留言",
+    "sendButton": "发送",
+    "sendingStatus": "发送中…",
+    "sentStatus": "已发送",
+    "errorStatus": "出了点问题"
+  },
+  "footer": {
+    "rightsReserved": "版权所有。",
+    "backToTop": "返回顶部"
+  },
+  "common": {
+    "loading": "加载中…",
+    "close": "关闭",
+    "viewProject": "查看项目"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "work": "الأعمال",
+    "about": "نبذة عني",
+    "leadership": "القيادة",
+    "credentials": "المؤهلات",
+    "contact": "تواصل",
+    "resume": "السيرة الذاتية",
+    "themeToggle": "تبديل المظهر",
+    "languageSelector": "اختر اللغة"
+  },
+  "intro": {
+    "welcome": "مرحبًا",
+    "quote": "بناء أشياء تراقب وتستمع وتستجيب."
+  },
+  "hero": {
+    "titleRole1": "مهندس برمجيات",
+    "titleRole2": "مطوّر ويب متكامل",
+    "titleRole3": "مهندس تعلّم آلي تطبيقي",
+    "subtitle": "طالب بكالوريوس تقنية المعلومات في VIT فيلور، أصمم أنظمة تراقب وتستمع وتستجيب — من أدوات السلامة القائمة على الرؤية الحاسوبية إلى تطبيقات متكاملة منشورة على السحابة."
+  },
+  "about": {
+    "sectionTitle": "نبذة عني",
+    "intro": "أنا طالب تقنية معلومات في",
+    "bodyHabit": "ولديّ عادة اختيار مشاريع مبنية حول إشارة حية — كاميرا، أو بث GPS، أو تدفق سجلات حضور — وتحويلها إلى شيء يمكن للنظام التصرف بناءً عليه.",
+    "statFestivals": "المهرجانات التي نُظمت كقائد طلابي أو متطوع"
+  },
+  "work": {
+    "sectionTitle": "الأعمال",
+    "eyebrow": "مشاريع مختارة."
+  },
+  "leadership": {
+    "sectionTitle": "القيادة و",
+    "sectionTitleLine2": "المهرجانات",
+    "eyebrow": "على المسرح وخلفه.",
+    "topBadge": "منظّم · أعلى منصب طلابي",
+    "organiserRole": "منظّم طلابي",
+    "managerRole": "مدير طلابي",
+    "coordinatorRole": "منسّق طلابي",
+    "volunteerRole": "متطوع"
+  },
+  "credentials": {
+    "sectionTitle": "المؤهلات"
+  },
+  "contact": {
+    "sectionTitle": "تواصل",
+    "eyebrow": "لنتحدث.",
+    "nameLabel": "الاسم",
+    "emailLabel": "البريد الإلكتروني",
+    "messageLabel": "الرسالة",
+    "sendButton": "إرسال",
+    "sendingStatus": "جارٍ الإرسال…",
+    "sentStatus": "تم الإرسال",
+    "errorStatus": "حدث خطأ ما"
+  },
+  "footer": {
+    "rightsReserved": "جميع الحقوق محفوظة.",
+    "backToTop": "العودة إلى الأعلى"
+  },
+  "common": {
+    "loading": "جارٍ التحميل…",
+    "close": "إغلاق",
+    "viewProject": "عرض المشروع"
+  }
+}

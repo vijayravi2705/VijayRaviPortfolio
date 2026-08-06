@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "work": "작업",
+    "about": "소개",
+    "leadership": "리더십",
+    "credentials": "자격증",
+    "contact": "연락처",
+    "resume": "이력서",
+    "themeToggle": "테마 전환",
+    "languageSelector": "언어 선택"
+  },
+  "intro": {
+    "welcome": "환영합니다",
+    "quote": "보고, 듣고, 반응하는 것을 만듭니다."
+  },
+  "hero": {
+    "titleRole1": "소프트웨어 엔지니어",
+    "titleRole2": "풀스택 개발자",
+    "titleRole3": "응용 머신러닝 엔지니어",
+    "subtitle": "VIT 벨로르에서 IT를 전공하는 B.Tech 학생으로, 컴퓨터 비전 안전 도구부터 클라우드에 배포된 풀스택 앱까지, 보고 듣고 반응하는 시스템을 설계합니다."
+  },
+  "about": {
+    "sectionTitle": "소개",
+    "intro": "저는 정보기술을 전공하는 학생입니다, 소속은",
+    "bodyHabit": "카메라, GPS 피드, 출석 기록 스트림과 같은 실시간 신호를 중심으로 프로젝트를 선택하고, 이를 시스템이 대응할 수 있는 것으로 만드는 습관이 있습니다.",
+    "statFestivals": "학생 리더 또는 자원봉사자로 주최한 축제 수"
+  },
+  "work": {
+    "sectionTitle": "작업",
+    "eyebrow": "선정된 프로젝트."
+  },
+  "leadership": {
+    "sectionTitle": "리더십과",
+    "sectionTitleLine2": "축제",
+    "eyebrow": "무대 위와 무대 뒤에서.",
+    "topBadge": "주최자 · 최고 학생 직책",
+    "organiserRole": "학생 주최자",
+    "managerRole": "학생 매니저",
+    "coordinatorRole": "학생 코디네이터",
+    "volunteerRole": "자원봉사자"
+  },
+  "credentials": {
+    "sectionTitle": "자격증"
+  },
+  "contact": {
+    "sectionTitle": "연락처",
+    "eyebrow": "이야기해요.",
+    "nameLabel": "이름",
+    "emailLabel": "이메일",
+    "messageLabel": "메시지",
+    "sendButton": "보내기",
+    "sendingStatus": "전송 중…",
+    "sentStatus": "전송됨",
+    "errorStatus": "문제가 발생했습니다"
+  },
+  "footer": {
+    "rightsReserved": "모든 권리 보유.",
+    "backToTop": "맨 위로"
+  },
+  "common": {
+    "loading": "로딩 중…",
+    "close": "닫기",
+    "viewProject": "프로젝트 보기"
+  }
+}

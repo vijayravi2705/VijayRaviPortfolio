@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "work": "Work",
+    "about": "About",
+    "leadership": "Leadership",
+    "credentials": "Credentials",
+    "contact": "Contact",
+    "resume": "Resume",
+    "themeToggle": "Toggle theme",
+    "languageSelector": "Select language"
+  },
+  "intro": {
+    "welcome": "Welcome",
+    "quote": "Build things that watch, listen, and respond."
+  },
+  "hero": {
+    "titleRole1": "Software Engineer",
+    "titleRole2": "Full Stack Developer",
+    "titleRole3": "Applied ML Engineer",
+    "subtitle": "B.Tech IT student at VIT Vellore, designing systems that watch, listen, and respond — from computer-vision safety tools to cloud-deployed full-stack apps."
+  },
+  "about": {
+    "sectionTitle": "About",
+    "intro": "I'm an Information Technology student at",
+    "bodyHabit": "with a habit of picking projects built around a live signal — a camera, a GPS feed, a stream of attendance records — and turning it into something a system can act on.",
+    "statFestivals": "Festivals organised as student lead or volunteer"
+  },
+  "work": {
+    "sectionTitle": "Work",
+    "eyebrow": "Selected projects."
+  },
+  "leadership": {
+    "sectionTitle": "Leadership &",
+    "sectionTitleLine2": "Festivals",
+    "eyebrow": "On stage and behind it.",
+    "topBadge": "Organiser · Highest Student Post",
+    "organiserRole": "Student Organiser",
+    "managerRole": "Student Manager",
+    "coordinatorRole": "Student Coordinator",
+    "volunteerRole": "Volunteer"
+  },
+  "credentials": {
+    "sectionTitle": "Credentials"
+  },
+  "contact": {
+    "sectionTitle": "Contact",
+    "eyebrow": "Let's talk.",
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "messageLabel": "Message",
+    "sendButton": "Send",
+    "sendingStatus": "Sending…",
+    "sentStatus": "Sent",
+    "errorStatus": "Something went wrong"
+  },
+  "footer": {
+    "rightsReserved": "All rights reserved.",
+    "backToTop": "Back to top"
+  },
+  "common": {
+    "loading": "Loading…",
+    "close": "Close",
+    "viewProject": "View project"
+  }
+}

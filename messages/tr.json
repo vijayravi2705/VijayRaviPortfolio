@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "work": "Çalışmalar",
+    "about": "Hakkımda",
+    "leadership": "Liderlik",
+    "credentials": "Belgeler",
+    "contact": "İletişim",
+    "resume": "Özgeçmiş",
+    "themeToggle": "Temayı değiştir",
+    "languageSelector": "Dil seçin"
+  },
+  "intro": {
+    "welcome": "Hoş geldiniz",
+    "quote": "İzleyen, dinleyen ve tepki veren şeyler inşa etmek."
+  },
+  "hero": {
+    "titleRole1": "Yazılım Mühendisi",
+    "titleRole2": "Full Stack Geliştirici",
+    "titleRole3": "Uygulamalı ML Mühendisi",
+    "subtitle": "VIT Vellore'da B.Tech IT öğrencisi olarak, bilgisayarlı görü tabanlı güvenlik araçlarından buluta dağıtılan full-stack uygulamalara kadar izleyen, dinleyen ve tepki veren sistemler tasarlıyorum."
+  },
+  "about": {
+    "sectionTitle": "Hakkımda",
+    "intro": "Bilgi Teknolojileri öğrencisiyim, okuduğum yer",
+    "bodyHabit": "canlı bir sinyal etrafında kurulan projeleri — bir kamera, bir GPS akışı, bir yoklama kayıtları akışı — seçip bunu bir sistemin üzerinde işlem yapabileceği bir şeye dönüştürme alışkanlığım var.",
+    "statFestivals": "Öğrenci lideri veya gönüllü olarak düzenlenen festivaller"
+  },
+  "work": {
+    "sectionTitle": "Çalışmalar",
+    "eyebrow": "Seçilmiş projeler."
+  },
+  "leadership": {
+    "sectionTitle": "Liderlik ve",
+    "sectionTitleLine2": "Festivaller",
+    "eyebrow": "Sahnede ve sahne arkasında.",
+    "topBadge": "Organizatör · En Üst Öğrenci Görevi",
+    "organiserRole": "Öğrenci Organizatörü",
+    "managerRole": "Öğrenci Yöneticisi",
+    "coordinatorRole": "Öğrenci Koordinatörü",
+    "volunteerRole": "Gönüllü"
+  },
+  "credentials": {
+    "sectionTitle": "Belgeler"
+  },
+  "contact": {
+    "sectionTitle": "İletişim",
+    "eyebrow": "Konuşalım.",
+    "nameLabel": "Ad",
+    "emailLabel": "E-posta",
+    "messageLabel": "Mesaj",
+    "sendButton": "Gönder",
+    "sendingStatus": "Gönderiliyor…",
+    "sentStatus": "Gönderildi",
+    "errorStatus": "Bir şeyler ters gitti"
+  },
+  "footer": {
+    "rightsReserved": "Tüm hakları saklıdır.",
+    "backToTop": "Başa dön"
+  },
+  "common": {
+    "loading": "Yükleniyor…",
+    "close": "Kapat",
+    "viewProject": "Projeyi görüntüle"
+  }
+}

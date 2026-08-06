@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "work": "Projets",
+    "about": "À propos",
+    "leadership": "Leadership",
+    "credentials": "Qualifications",
+    "contact": "Contact",
+    "resume": "CV",
+    "themeToggle": "Changer de thème",
+    "languageSelector": "Choisir la langue"
+  },
+  "intro": {
+    "welcome": "Bienvenue",
+    "quote": "Construire des choses qui observent, écoutent et réagissent."
+  },
+  "hero": {
+    "titleRole1": "Ingénieur Logiciel",
+    "titleRole2": "Développeur Full Stack",
+    "titleRole3": "Ingénieur en ML Appliqué",
+    "subtitle": "Étudiant en B.Tech IT à VIT Vellore, concevant des systèmes qui observent, écoutent et réagissent — des outils de sécurité en vision par ordinateur aux applications full-stack déployées sur le cloud."
+  },
+  "about": {
+    "sectionTitle": "À propos",
+    "intro": "Je suis étudiant en Technologies de l'Information à",
+    "bodyHabit": "avec l'habitude de choisir des projets construits autour d'un signal en direct — une caméra, un flux GPS, un flux de relevés de présence — et de le transformer en quelque chose sur lequel un système peut agir.",
+    "statFestivals": "Festivals organisés en tant que responsable étudiant ou bénévole"
+  },
+  "work": {
+    "sectionTitle": "Projets",
+    "eyebrow": "Projets sélectionnés."
+  },
+  "leadership": {
+    "sectionTitle": "Leadership &",
+    "sectionTitleLine2": "Festivals",
+    "eyebrow": "Sur scène et en coulisses.",
+    "topBadge": "Organisateur · Poste étudiant le plus élevé",
+    "organiserRole": "Organisateur étudiant",
+    "managerRole": "Responsable étudiant",
+    "coordinatorRole": "Coordinateur étudiant",
+    "volunteerRole": "Bénévole"
+  },
+  "credentials": {
+    "sectionTitle": "Qualifications"
+  },
+  "contact": {
+    "sectionTitle": "Contact",
+    "eyebrow": "Discutons.",
+    "nameLabel": "Nom",
+    "emailLabel": "E-mail",
+    "messageLabel": "Message",
+    "sendButton": "Envoyer",
+    "sendingStatus": "Envoi en cours…",
+    "sentStatus": "Envoyé",
+    "errorStatus": "Une erreur est survenue"
+  },
+  "footer": {
+    "rightsReserved": "Tous droits réservés.",
+    "backToTop": "Retour en haut"
+  },
+  "common": {
+    "loading": "Chargement…",
+    "close": "Fermer",
+    "viewProject": "Voir le projet"
+  }
+}

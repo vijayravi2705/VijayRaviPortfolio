@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "work": "Trabajo",
+    "about": "Sobre mí",
+    "leadership": "Liderazgo",
+    "credentials": "Credenciales",
+    "contact": "Contacto",
+    "resume": "Currículum",
+    "themeToggle": "Cambiar tema",
+    "languageSelector": "Seleccionar idioma"
+  },
+  "intro": {
+    "welcome": "Bienvenido",
+    "quote": "Construir cosas que observan, escuchan y responden."
+  },
+  "hero": {
+    "titleRole1": "Ingeniero de Software",
+    "titleRole2": "Desarrollador Full Stack",
+    "titleRole3": "Ingeniero de ML Aplicado",
+    "subtitle": "Estudiante de B.Tech en TI en VIT Vellore, diseñando sistemas que observan, escuchan y responden — desde herramientas de seguridad con visión por computadora hasta aplicaciones full-stack desplegadas en la nube."
+  },
+  "about": {
+    "sectionTitle": "Sobre mí",
+    "intro": "Soy estudiante de Tecnología de la Información en",
+    "bodyHabit": "con la costumbre de elegir proyectos construidos en torno a una señal en vivo — una cámara, una señal GPS, un flujo de registros de asistencia — y convertirla en algo sobre lo que un sistema puede actuar.",
+    "statFestivals": "Festivales organizados como líder estudiantil o voluntario"
+  },
+  "work": {
+    "sectionTitle": "Trabajo",
+    "eyebrow": "Proyectos seleccionados."
+  },
+  "leadership": {
+    "sectionTitle": "Liderazgo y",
+    "sectionTitleLine2": "Festivales",
+    "eyebrow": "En el escenario y detrás de él.",
+    "topBadge": "Organizador · Puesto Estudiantil Más Alto",
+    "organiserRole": "Organizador Estudiantil",
+    "managerRole": "Gerente Estudiantil",
+    "coordinatorRole": "Coordinador Estudiantil",
+    "volunteerRole": "Voluntario"
+  },
+  "credentials": {
+    "sectionTitle": "Credenciales"
+  },
+  "contact": {
+    "sectionTitle": "Contacto",
+    "eyebrow": "Hablemos.",
+    "nameLabel": "Nombre",
+    "emailLabel": "Correo electrónico",
+    "messageLabel": "Mensaje",
+    "sendButton": "Enviar",
+    "sendingStatus": "Enviando…",
+    "sentStatus": "Enviado",
+    "errorStatus": "Algo salió mal"
+  },
+  "footer": {
+    "rightsReserved": "Todos los derechos reservados.",
+    "backToTop": "Volver arriba"
+  },
+  "common": {
+    "loading": "Cargando…",
+    "close": "Cerrar",
+    "viewProject": "Ver proyecto"
+  }
+}

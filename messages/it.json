@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "work": "Lavori",
+    "about": "Chi sono",
+    "leadership": "Leadership",
+    "credentials": "Credenziali",
+    "contact": "Contatti",
+    "resume": "Curriculum",
+    "themeToggle": "Cambia tema",
+    "languageSelector": "Seleziona lingua"
+  },
+  "intro": {
+    "welcome": "Benvenuto",
+    "quote": "Costruire cose che osservano, ascoltano e rispondono."
+  },
+  "hero": {
+    "titleRole1": "Ingegnere Software",
+    "titleRole2": "Sviluppatore Full Stack",
+    "titleRole3": "Ingegnere ML Applicato",
+    "subtitle": "Studente di B.Tech IT presso VIT Vellore, progetto sistemi che osservano, ascoltano e rispondono — da strumenti di sicurezza con visione artificiale ad app full-stack distribuite sul cloud."
+  },
+  "about": {
+    "sectionTitle": "Chi sono",
+    "intro": "Sono uno studente di Tecnologia dell'Informazione presso",
+    "bodyHabit": "con l'abitudine di scegliere progetti costruiti attorno a un segnale live — una fotocamera, un flusso GPS, un flusso di registri di presenza — e trasformarlo in qualcosa su cui un sistema possa agire.",
+    "statFestivals": "Festival organizzati come responsabile studentesco o volontario"
+  },
+  "work": {
+    "sectionTitle": "Lavori",
+    "eyebrow": "Progetti selezionati."
+  },
+  "leadership": {
+    "sectionTitle": "Leadership e",
+    "sectionTitleLine2": "Festival",
+    "eyebrow": "Sul palco e dietro le quinte.",
+    "topBadge": "Organizzatore · Massima carica studentesca",
+    "organiserRole": "Organizzatore studentesco",
+    "managerRole": "Manager studentesco",
+    "coordinatorRole": "Coordinatore studentesco",
+    "volunteerRole": "Volontario"
+  },
+  "credentials": {
+    "sectionTitle": "Credenziali"
+  },
+  "contact": {
+    "sectionTitle": "Contatti",
+    "eyebrow": "Parliamone.",
+    "nameLabel": "Nome",
+    "emailLabel": "Email",
+    "messageLabel": "Messaggio",
+    "sendButton": "Invia",
+    "sendingStatus": "Invio in corso…",
+    "sentStatus": "Inviato",
+    "errorStatus": "Qualcosa è andato storto"
+  },
+  "footer": {
+    "rightsReserved": "Tutti i diritti riservati.",
+    "backToTop": "Torna su"
+  },
+  "common": {
+    "loading": "Caricamento…",
+    "close": "Chiudi",
+    "viewProject": "Vedi progetto"
+  }
+}

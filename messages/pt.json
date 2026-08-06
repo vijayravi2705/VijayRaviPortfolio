@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "work": "Trabalhos",
+    "about": "Sobre",
+    "leadership": "Liderança",
+    "credentials": "Credenciais",
+    "contact": "Contato",
+    "resume": "Currículo",
+    "themeToggle": "Alternar tema",
+    "languageSelector": "Selecionar idioma"
+  },
+  "intro": {
+    "welcome": "Bem-vindo",
+    "quote": "Construir coisas que observam, ouvem e respondem."
+  },
+  "hero": {
+    "titleRole1": "Engenheiro de Software",
+    "titleRole2": "Desenvolvedor Full Stack",
+    "titleRole3": "Engenheiro de ML Aplicado",
+    "subtitle": "Estudante de B.Tech em TI na VIT Vellore, projetando sistemas que observam, ouvem e respondem — de ferramentas de segurança com visão computacional a aplicativos full-stack implantados na nuvem."
+  },
+  "about": {
+    "sectionTitle": "Sobre",
+    "intro": "Sou estudante de Tecnologia da Informação na",
+    "bodyHabit": "com o hábito de escolher projetos construídos em torno de um sinal ao vivo — uma câmera, um feed de GPS, um fluxo de registros de presença — e transformá-lo em algo sobre o qual um sistema possa agir.",
+    "statFestivals": "Festivais organizados como líder estudantil ou voluntário"
+  },
+  "work": {
+    "sectionTitle": "Trabalhos",
+    "eyebrow": "Projetos selecionados."
+  },
+  "leadership": {
+    "sectionTitle": "Liderança e",
+    "sectionTitleLine2": "Festivais",
+    "eyebrow": "No palco e nos bastidores.",
+    "topBadge": "Organizador · Cargo Estudantil Mais Alto",
+    "organiserRole": "Organizador Estudantil",
+    "managerRole": "Gerente Estudantil",
+    "coordinatorRole": "Coordenador Estudantil",
+    "volunteerRole": "Voluntário"
+  },
+  "credentials": {
+    "sectionTitle": "Credenciais"
+  },
+  "contact": {
+    "sectionTitle": "Contato",
+    "eyebrow": "Vamos conversar.",
+    "nameLabel": "Nome",
+    "emailLabel": "E-mail",
+    "messageLabel": "Mensagem",
+    "sendButton": "Enviar",
+    "sendingStatus": "Enviando…",
+    "sentStatus": "Enviado",
+    "errorStatus": "Algo deu errado"
+  },
+  "footer": {
+    "rightsReserved": "Todos os direitos reservados.",
+    "backToTop": "Voltar ao topo"
+  },
+  "common": {
+    "loading": "Carregando…",
+    "close": "Fechar",
+    "viewProject": "Ver projeto"
+  }
+}

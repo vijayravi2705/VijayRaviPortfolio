@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "work": "Arbeit",
+    "about": "Über mich",
+    "leadership": "Führung",
+    "credentials": "Qualifikationen",
+    "contact": "Kontakt",
+    "resume": "Lebenslauf",
+    "themeToggle": "Design umschalten",
+    "languageSelector": "Sprache auswählen"
+  },
+  "intro": {
+    "welcome": "Willkommen",
+    "quote": "Dinge bauen, die beobachten, zuhören und reagieren."
+  },
+  "hero": {
+    "titleRole1": "Softwareentwickler",
+    "titleRole2": "Full-Stack-Entwickler",
+    "titleRole3": "Angewandter ML-Ingenieur",
+    "subtitle": "B.Tech-IT-Student an der VIT Vellore, der Systeme entwirft, die beobachten, zuhören und reagieren — von Computer-Vision-Sicherheitstools bis zu cloud-bereitgestellten Full-Stack-Apps."
+  },
+  "about": {
+    "sectionTitle": "Über mich",
+    "intro": "Ich bin Student der Informationstechnologie an der",
+    "bodyHabit": "mit der Angewohnheit, Projekte rund um ein Live-Signal zu bauen — eine Kamera, ein GPS-Feed, einen Strom von Anwesenheitsdaten — und daraus etwas zu machen, auf das ein System reagieren kann.",
+    "statFestivals": "Als Studentenleiter oder Freiwilliger organisierte Festivals"
+  },
+  "work": {
+    "sectionTitle": "Arbeit",
+    "eyebrow": "Ausgewählte Projekte."
+  },
+  "leadership": {
+    "sectionTitle": "Führung &",
+    "sectionTitleLine2": "Festivals",
+    "eyebrow": "Auf der Bühne und dahinter.",
+    "topBadge": "Organisator · Höchster Studentenposten",
+    "organiserRole": "Studentischer Organisator",
+    "managerRole": "Studentischer Manager",
+    "coordinatorRole": "Studentischer Koordinator",
+    "volunteerRole": "Freiwilliger"
+  },
+  "credentials": {
+    "sectionTitle": "Qualifikationen"
+  },
+  "contact": {
+    "sectionTitle": "Kontakt",
+    "eyebrow": "Lass uns reden.",
+    "nameLabel": "Name",
+    "emailLabel": "E-Mail",
+    "messageLabel": "Nachricht",
+    "sendButton": "Senden",
+    "sendingStatus": "Wird gesendet…",
+    "sentStatus": "Gesendet",
+    "errorStatus": "Etwas ist schiefgelaufen"
+  },
+  "footer": {
+    "rightsReserved": "Alle Rechte vorbehalten.",
+    "backToTop": "Nach oben"
+  },
+  "common": {
+    "loading": "Lädt…",
+    "close": "Schließen",
+    "viewProject": "Projekt ansehen"
+  }
+}

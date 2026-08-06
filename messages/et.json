@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "work": "Tööd",
+    "about": "Minust",
+    "leadership": "Juhtimine",
+    "credentials": "Kvalifikatsioonid",
+    "contact": "Kontakt",
+    "resume": "CV",
+    "themeToggle": "Vaheta teemat",
+    "languageSelector": "Vali keel"
+  },
+  "intro": {
+    "welcome": "Tere tulemast",
+    "quote": "Ehitan asju, mis jälgivad, kuulavad ja reageerivad."
+  },
+  "hero": {
+    "titleRole1": "Tarkvarainsener",
+    "titleRole2": "Full Stack arendaja",
+    "titleRole3": "Rakendusliku masinõppe insener",
+    "subtitle": "B.Tech IT üliõpilane VIT Vellores, kes kujundab süsteeme, mis jälgivad, kuulavad ja reageerivad — arvutinägemisel põhinevatest turvatööriistadest kuni pilve juurutatud full-stack rakendusteni."
+  },
+  "about": {
+    "sectionTitle": "Minust",
+    "intro": "Olen infotehnoloogia üliõpilane koolis",
+    "bodyHabit": "ja mul on komme valida projekte, mis on üles ehitatud reaalajas signaali ümber — kaamera, GPS-voog, kohalolekukirjete voog — ning muuta see millekski, mille põhjal süsteem saab tegutseda.",
+    "statFestivals": "Festivalid, mida korraldati üliõpilasjuhi või vabatahtlikuna"
+  },
+  "work": {
+    "sectionTitle": "Tööd",
+    "eyebrow": "Valitud projektid."
+  },
+  "leadership": {
+    "sectionTitle": "Juhtimine ja",
+    "sectionTitleLine2": "festivalid",
+    "eyebrow": "Laval ja lava taga.",
+    "topBadge": "Korraldaja · kõrgeim üliõpilasametikoht",
+    "organiserRole": "Üliõpilaskorraldaja",
+    "managerRole": "Üliõpilasjuht",
+    "coordinatorRole": "Üliõpilaskoordinaator",
+    "volunteerRole": "Vabatahtlik"
+  },
+  "credentials": {
+    "sectionTitle": "Kvalifikatsioonid"
+  },
+  "contact": {
+    "sectionTitle": "Kontakt",
+    "eyebrow": "Räägime.",
+    "nameLabel": "Nimi",
+    "emailLabel": "E-post",
+    "messageLabel": "Sõnum",
+    "sendButton": "Saada",
+    "sendingStatus": "Saatmine…",
+    "sentStatus": "Saadetud",
+    "errorStatus": "Midagi läks valesti"
+  },
+  "footer": {
+    "rightsReserved": "Kõik õigused kaitstud.",
+    "backToTop": "Tagasi üles"
+  },
+  "common": {
+    "loading": "Laadimine…",
+    "close": "Sulge",
+    "viewProject": "Vaata projekti"
+  }
+}

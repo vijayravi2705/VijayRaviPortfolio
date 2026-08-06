@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "work": "実績",
+    "about": "プロフィール",
+    "leadership": "リーダーシップ",
+    "credentials": "資格",
+    "contact": "お問い合わせ",
+    "resume": "履歴書",
+    "themeToggle": "テーマ切替",
+    "languageSelector": "言語を選択"
+  },
+  "intro": {
+    "welcome": "ようこそ",
+    "quote": "見て、聞いて、応答するものを作る。"
+  },
+  "hero": {
+    "titleRole1": "ソフトウェアエンジニア",
+    "titleRole2": "フルスタック開発者",
+    "titleRole3": "応用機械学習エンジニア",
+    "subtitle": "VITヴェロールのB.Tech IT学生として、コンピュータビジョンを用いた安全ツールからクラウドにデプロイされたフルスタックアプリまで、見て、聞いて、応答するシステムを設計しています。"
+  },
+  "about": {
+    "sectionTitle": "プロフィール",
+    "intro": "私は情報技術専攻の学生です、在籍先は",
+    "bodyHabit": "カメラ、GPSフィード、出席記録のストリームなど、ライブ信号を軸にしたプロジェクトを選び、システムが対応できる何かへと変える習慣があります。",
+    "statFestivals": "学生リーダーまたはボランティアとして運営したフェスティバル数"
+  },
+  "work": {
+    "sectionTitle": "実績",
+    "eyebrow": "厳選プロジェクト。"
+  },
+  "leadership": {
+    "sectionTitle": "リーダーシップと",
+    "sectionTitleLine2": "フェスティバル",
+    "eyebrow": "ステージの上と裏方で。",
+    "topBadge": "運営者・最高学生役職",
+    "organiserRole": "学生運営者",
+    "managerRole": "学生マネージャー",
+    "coordinatorRole": "学生コーディネーター",
+    "volunteerRole": "ボランティア"
+  },
+  "credentials": {
+    "sectionTitle": "資格"
+  },
+  "contact": {
+    "sectionTitle": "お問い合わせ",
+    "eyebrow": "話しましょう。",
+    "nameLabel": "お名前",
+    "emailLabel": "メールアドレス",
+    "messageLabel": "メッセージ",
+    "sendButton": "送信",
+    "sendingStatus": "送信中…",
+    "sentStatus": "送信済み",
+    "errorStatus": "エラーが発生しました"
+  },
+  "footer": {
+    "rightsReserved": "無断複写・転載を禁じます。",
+    "backToTop": "トップへ戻る"
+  },
+  "common": {
+    "loading": "読み込み中…",
+    "close": "閉じる",
+    "viewProject": "プロジェクトを見る"
+  }
+}
